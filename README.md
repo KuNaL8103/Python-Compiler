@@ -4,4 +4,5 @@ A web-based Python compiler that allows you to write, run, and test Python code 
 
 ## 🖼️ Screenshot
 
-![Simple Python Compiler Screenshot](screenshot.png)
+![Simple Python Compiler Screenshot](screenshot.jpg)
+
